@@ -1,11 +1,5 @@
 # Hey there! 👋 I'm Aya Al-Shahal
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/aya-al-shahal/)
-
-</div>
-
 ## 🚀 About Me
 
 Full-stack developer passionate about building scalable web applications and exploring AI/ML technologies. I work with modern frameworks and love bringing ideas to life through clean, efficient code.
