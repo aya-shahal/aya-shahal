@@ -3,7 +3,6 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/aya-al-shahal/)
-[![Profile Views](https://komarev.com/ghpvc/?username=aya-shahal&color=blueviolet&style=for-the-badge)](https://github.com/aya-shahal)
 
 </div>
 
@@ -71,18 +70,4 @@ Full-stack developer passionate about building scalable web applications and exp
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aya-shahal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-</div>
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [Aya Al-Shahal](https://www.linkedin.com/in/aya-al-shahal/)
-- 📧 Email: ayashahal055@gmail.com
----
-
-<div align="center">
-  
-### ⭐️ From [aya-shahal](https://github.com/aya-shahal)
-
 </div>
