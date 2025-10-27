@@ -1,17 +1,22 @@
+<div align="center">
+
 # Hey there! 👋 I'm Aya Al-Shahal
 
-## 🚀 About Me
+</div>
 
-Full-stack developer passionate about building scalable web applications and exploring AI/ML technologies. I work with modern frameworks and love bringing ideas to life through clean, efficient code.
+## 👩‍💻 About Me
 
-🔭 Currently working on full-stack projects with **MEAN/MERN** stack  
-🌱 Exploring **AI/ML** with PyTorch and TensorFlow  
-💡 Always learning and improving my craft  
-📍 Based in Lebanon
+Full-stack developer passionate about building **scalable, user-friendly web applications** and exploring **AI/ML technologies**. I work with modern frameworks and love bringing ideas to life through clean, efficient code.
+
+💻 Full-Stack Developer experienced in **MEAN & MERN stacks**  
+🤖 Exploring **AI/ML technologies**  
+🎯 Driven by **clean code, performance, and innovative solutions**  
+🧠 Curious lifelong learner with strong analytical skills  
+📫 **Let’s connect! Reach me via [LinkedIn](https://www.linkedin.com/in/aya-al-shahal/) or [email](mailto:ayashahal055@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" />
@@ -54,14 +59,4 @@ Full-stack developer passionate about building scalable web applications and exp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-shahal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aya-shahal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aya-shahal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-</div>
