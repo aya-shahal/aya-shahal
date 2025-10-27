@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-Full-stack developer passionate about building **scalable, user-friendly web applications** and exploring **AI/ML technologies**. I work with modern frameworks and love bringing ideas to life through clean, efficient code.
+Full Stack Developer specializing in **frontend frameworks** (Angular, React, Flutter) and experienced in **backend technologies** (Node.js, NestJS). Passionate about building **scalable, high-performance, and user-focused web applications**, while exploring **Machine Learning, Generative AI, and Large Language Models (LLMs)** to create intelligent solutions.
 
 💻 Full-Stack Developer experienced in **MEAN & MERN stacks**  
 🤖 Exploring **AI/ML technologies**  
